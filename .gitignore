@@ -1,0 +1,15 @@
+# Compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+__debug_bin
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
